@@ -1,8 +1,17 @@
 ---
 
 layout: home
-title: 前端学之路
-description: 
+title: 前端学习之路
+description:  学习前端的点滴记录
+features:
+  - title: Vue 全家桶
+    details: 基础技能
+  - title: Vue 组件学习
+    details: 学习练手。
+  - title: Vue 项目编写
+    details: 实战出真知
+lastUpdated: true
+
 
 hero:
   name: Frontend Study🎉
@@ -11,8 +20,8 @@ hero:
   actions:
     - theme: brand
       text: 开始
-      link: /page/index
+      link: /guide/index
     - theme: alt
-      text: 访问github
-      link: https://github.com/Yinzhuo19970516/vue-template
+      text: 访问 Github
+      link: https://github.com/youmikuang/web-frontend-study
 ---
