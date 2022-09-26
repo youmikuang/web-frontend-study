@@ -9,9 +9,6 @@ yarn run docs:build
 # 进入生成的文件夹
 cd docs/.vitepress/dist
 
-#创建.nojekyll 防止Github Pages build错误
-touch .nojekyll
-
 git init
 git add -A
 git commit -m 'deploy'
@@ -19,3 +16,5 @@ git commit -m 'deploy'
 git push -f "https://github.com/youmikuang/web-frontend-study.git" main:gh-pages
 
 cd -
+
+rm -rf docs/.vitepress/dist
