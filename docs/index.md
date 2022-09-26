@@ -16,7 +16,7 @@ lastUpdated: true
 hero:
   name: Frontend Study🎉
   text:
-  tagline: 一个后端的前端小白之路
+  tagline: 一个后端 crud boy 的前端小白学习之路
   actions:
     - theme: brand
       text: 开始
