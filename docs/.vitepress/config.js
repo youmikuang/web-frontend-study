@@ -3,7 +3,7 @@ module.exports = {
   description: '从零开始学前端编程',
   base: '/web-frontend-study/',
   head:[
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
+    ['link', { rel: 'icon', href: 'https://go-geek.gitee.io/docker/favicon.ico' }]
   ],
   lastUpdated: true,
   themeConfig : {
