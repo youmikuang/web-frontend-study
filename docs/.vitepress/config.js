@@ -9,7 +9,7 @@ module.exports = {
   themeConfig : {
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2022-present Laragh'
+      copyright: 'Copyright © 2022-GAOHENG | <a href="https://beian.miit.gov.cn/" target="_blank">京ICP备16016944号-3</a>'
     },
     lastUpdatedText: '更新时间',
     nav: [
