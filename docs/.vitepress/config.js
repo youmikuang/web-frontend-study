@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Frontend Study',
   description: '从零开始学前端编程',
-  base: '/web-frontend-study/',
+  base: '/',
   head:[
     ['link', { rel: 'icon', href: 'https://go-geek.gitee.io/docker/favicon.ico' }]
   ],

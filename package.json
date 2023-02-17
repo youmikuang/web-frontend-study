@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "前端升级打怪之路",
   "main": "index.js",
-  "repository": "web.gaoheng.top",
+  "repository": "www.gaoheng.top",
   "author": "laragh",
   "license": "MIT",
   "devDependencies": {
