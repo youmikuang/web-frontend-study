@@ -13,7 +13,7 @@ git init
 git add -A
 git commit -m 'deploy'
 
-git push -f "https://github.com/youmikuang/web-frontend-study.git" main:gh-pages
+git push -f "git@github.com:youmikuang/web-frontend-study.git" main:gh-pages
 
 cd -
 
